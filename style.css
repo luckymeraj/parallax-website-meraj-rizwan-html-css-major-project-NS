@@ -14,7 +14,7 @@ html {
     background-image: url('img11.jpg');
     min-height: 100%;
     background-position: center center;
-    opacity: 0.7;
+    opacity: 1;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -24,7 +24,7 @@ html {
     background-image: url('img12.jpg');
     min-height: 400px;
     background-position: center center;
-    opacity: 0.7;
+    opacity: 1;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -34,7 +34,7 @@ html {
     background-image: url('img13.jpg');
     min-height: 400px;
     background-position: center center;
-    opacity: 0.7;
+    opacity: 1;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -44,7 +44,7 @@ html {
     background-image: url('img2.jpg');
     min-height: 400px;
     background-position: center center;
-    opacity: 0.7;
+    opacity: 1;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -54,7 +54,7 @@ html {
     background-image: url('img3.jpg');
     min-height: 400px;
     background-position: center center;
-    opacity: 0.7;
+    opacity: 1;
     background-size: cover;
     background-attachment: fixed;
 }
