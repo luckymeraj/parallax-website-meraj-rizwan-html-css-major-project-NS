@@ -39,6 +39,26 @@ html {
     background-attachment: fixed;
 }
 
+.pimg4 {
+    position: relative;
+    background-image: url('img2.jpg');
+    min-height: 400px;
+    background-position: center center;
+    opacity: 0.7;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.pimg5 {
+    position: relative;
+    background-image: url('img3.jpg');
+    min-height: 400px;
+    background-position: center center;
+    opacity: 0.7;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .section {
     text-align: center;
     padding: 50px 80px;
